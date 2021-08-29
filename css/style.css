@@ -84,6 +84,7 @@ body {
     display: flex;
     justify-content: center;
     position: relative;
+    border-radius: 10px 0px 10px 0px;
 }
 
 h5 {
@@ -123,6 +124,9 @@ h5 {
     width: 150px;
     height: 225px;
   }
+h5 {
+    top: 150px;
+}
 }
 
 
